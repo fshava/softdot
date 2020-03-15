@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Api",
+    "\\app\\Http\\Controllers\\Backend",
+    "\\app\\Http\\Controllers\\Backend\\Auth",
+    "\\app\\Http\\Controllers\\Backend\\Auth\\Role",
+    "\\app\\Http\\Controllers\\Backend\\Auth\\User"
+  ],
+  "PreviewInSolutionExplorer": false
+}

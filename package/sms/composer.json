@@ -1,0 +1,19 @@
+{
+    "name": "Felix/Sms",
+    "description": "This is an api for managing school records",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felix Shava",
+            "email": "fshava35@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Felix\\Sms\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
